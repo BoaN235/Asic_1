@@ -28,3 +28,7 @@ Numerical IK: uses iterative aproaches to find a angles in complex or constraine
 
 #### 1 
 
+
+# THE PLAN
+Build a IK Co - Proccesor
+
